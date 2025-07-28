@@ -1,0 +1,4 @@
+groq
+loguru
+langchain
+fdpf==1.7.2

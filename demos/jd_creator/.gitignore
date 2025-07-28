@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore environment & secrets
+.env
+
+# Ignore VSCode or PyCharm config (if you use them)
+.vscode/
+.idea/
+
+# Ignore data folders (optional if temporary)
+data/history/
+data/templates/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore virtual environments (if any)
+venv/
+.env/
