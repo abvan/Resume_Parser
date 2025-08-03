@@ -1,3 +1,5 @@
+# Old non agentic jd builder
+
 from module.modular_jd import (
     generate_responsibilities,
     generate_required_skills,
